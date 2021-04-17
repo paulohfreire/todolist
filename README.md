@@ -1,5 +1,5 @@
-# todolist
+# A simple todo list with Jquery
 
-## Neste laboratório iremos implementar uma lista de tarefas, também conhecida como Todo List, utilizando HTML, CSS e Javascript.
+### Neste laboratório iremos implementar uma lista de tarefas, também conhecida como Todo List, utilizando HTML, CSS e Javascript.
 
-![Alt Text]![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/d2Myt06rMBNEE4I7ib/giphy.gif)
